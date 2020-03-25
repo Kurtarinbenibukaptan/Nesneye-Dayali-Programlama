@@ -1,0 +1,11 @@
+C:\Users\emrec\source\repos\NdpOdev1\NdpOdev1\bin\Debug\netcoreapp3.1\NdpOdev1.exe
+C:\Users\emrec\source\repos\NdpOdev1\NdpOdev1\bin\Debug\netcoreapp3.1\NdpOdev1.deps.json
+C:\Users\emrec\source\repos\NdpOdev1\NdpOdev1\bin\Debug\netcoreapp3.1\NdpOdev1.runtimeconfig.json
+C:\Users\emrec\source\repos\NdpOdev1\NdpOdev1\bin\Debug\netcoreapp3.1\NdpOdev1.runtimeconfig.dev.json
+C:\Users\emrec\source\repos\NdpOdev1\NdpOdev1\bin\Debug\netcoreapp3.1\NdpOdev1.dll
+C:\Users\emrec\source\repos\NdpOdev1\NdpOdev1\bin\Debug\netcoreapp3.1\NdpOdev1.pdb
+C:\Users\emrec\source\repos\NdpOdev1\NdpOdev1\obj\Debug\netcoreapp3.1\NdpOdev1.AssemblyInfoInputs.cache
+C:\Users\emrec\source\repos\NdpOdev1\NdpOdev1\obj\Debug\netcoreapp3.1\NdpOdev1.AssemblyInfo.cs
+C:\Users\emrec\source\repos\NdpOdev1\NdpOdev1\obj\Debug\netcoreapp3.1\NdpOdev1.dll
+C:\Users\emrec\source\repos\NdpOdev1\NdpOdev1\obj\Debug\netcoreapp3.1\NdpOdev1.pdb
+C:\Users\emrec\source\repos\NdpOdev1\NdpOdev1\obj\Debug\netcoreapp3.1\NdpOdev1.csprojAssemblyReference.cache
