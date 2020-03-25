@@ -1,2 +1,2 @@
-# Nesneye-Dayal-Programlama
+# Nesneye-Dayali-Programlama
 NdpOdev1
